@@ -13,3 +13,5 @@ asdf
 
 
 -q
+
+echo
